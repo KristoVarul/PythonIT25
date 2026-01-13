@@ -1,0 +1,26 @@
+#Kristo Varul
+import turtle
+turtle.fd(40)
+turtle.left(90)
+turtle.fd(80)
+turtle.right(135)
+turtle.fd(115)
+turtle.left(45)
+turtle.fd(40)
+turtle.left(135)
+turtle.fd(150)
+turtle.right(90)
+turtle.fd(115)
+turtle.left(135)
+turtle.fd(40)
+turtle.left(45)
+turtle.forward(90)
+turtle.right(135)
+turtle.fd(80)
+turtle.left(90)
+turtle.fd(36)
+turtle.left(90)
+turtle.fd(205)
+
+
+turtle.done()
