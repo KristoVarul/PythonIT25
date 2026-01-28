@@ -1,1 +1,0 @@
-Minu suure Pythoni kasvandus
