@@ -1,0 +1,9 @@
+kord=int(input("Mitu korda soovid?: "))
+rl=input("Reklaamlause: ")
+def banner(a):
+    return a.upper()
+
+
+for x in range(kord):
+    print(banner(rl))
+
